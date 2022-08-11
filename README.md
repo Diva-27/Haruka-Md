@@ -53,13 +53,13 @@ npm start
 ## Edit file
 `./config.json`
 ```{
-    "ownerNumber": ["6285342106390@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.xyz",
+    "ownerNumber": ["628895585970@s.whatsapp.net","628895585970@s.whatsapp.net"],
+    "ownerName": "Divaa ultramen",
+    "instagram" : "https://instagram.com/divaynx",
+    "botName": "Diva ultramen ",
+    "footer": "api.divakawai.xyz",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
+    "pathimg": "./media/diva.jpg",
     "BotKey": "V12",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
